@@ -1,0 +1,1 @@
+Hello and welcome to the Text-to-Speech Reader project. This application converts written text into spoken audio.
